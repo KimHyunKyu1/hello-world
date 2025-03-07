@@ -3,5 +3,6 @@ public class hello {
         System.out.println("hello");
         int a = 10;
         int b = 8888;
+        int c = 55;
     }
 }
